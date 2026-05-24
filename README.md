@@ -10,10 +10,6 @@
 Passionate Full Stack Developer from India focused on building scalable, modern and user-friendly web applications.
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Vaibhav-B-Ganjave&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
 ---
 
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -30,9 +26,9 @@ Passionate Full Stack Developer from India focused on building scalable, modern 
 
 ## 🛠️ Tech Stack
 
-### Frontend
+<h3 align="center">Frontend</h3>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -40,28 +36,30 @@ Passionate Full Stack Developer from India focused on building scalable, modern 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### Backend
+<h3 align="center">Backend</h3>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
-### Database
+<h3 align="center">Database</h3>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### Tools & Platforms
+<h3 align="center">Tools & Platforms</h3>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mendix-003A70?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
 </p>
 
 ---
@@ -69,15 +67,15 @@ Passionate Full Stack Developer from India focused on building scalable, modern 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-B-Ganjave&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vaibhav-B-Ganjave&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-B-Ganjave&theme=tokyonight"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=Vaibhav-B-Ganjave&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-B-Ganjave&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-B-Ganjave&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -113,18 +111,21 @@ Passionate Full Stack Developer from India focused on building scalable, modern 
 
 ## 📫 Let's Connect
 
-<p>
-<a href="https://github.com/Vaibhav-B-Ganjave">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p align="center"> Feel free to reach out for collaborations, projects, or just a friendly tech discussion! 🚀 </p>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p align="center">
+📧 Email: <a href="mailto:ganjavevaibhav1@gmail.com">ganjavevaibhav1@gmail.com</a><br>
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/vaibhav--ganjave">Connect with me</a><br>
+💻 GitHub: <a href="https://github.com/Vaibhav-B-Ganjave">Visit my profile</a><br>
+🌐 Portfolio: Coming Soon
 </p>
 
 ---
 
 <p align="center">
-⭐ Always learning • Keep Building • Keep Growing
+⭐ Always Learning • Keep Building • Keep Growing
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Vaibhav-B-Ganjave&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
