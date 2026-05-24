@@ -1,16 +1,70 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vaibhav Ganjave</h1>
+<h3 align="center">Full Stack Developer @ Four Colors Technology</h3>
 
-<!--
-**Vaibhav-B-Ganjave/Vaibhav-B-Ganjave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 React.js • Java • Node.js • Mendix
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+* 💼 Software Developer with experience in Full Stack Development
+* 🌱 Currently learning scalable architecture & modern web technologies
+* ⚡ Passionate about building user-friendly and enterprise-level applications
+* 🎯 Goal: Become a highly skilled Software Engineer
+
+---
+
+### 🛠️ Tech Stack
+
+#### Frontend
+
+* React.js
+* Next.js
+* JavaScript
+* HTML5
+* CSS3
+
+#### Backend
+
+* Java
+* Node.js
+* Express.js
+
+#### Database
+
+* MySQL
+* Oracle
+* MongoDB
+
+#### Tools
+
+* Git
+* GitHub
+* VS Code
+* Mendix
+
+---
+
+### 📊 GitHub Stats
+
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaibhav-B-Ganjave\&show_icons=true\&theme=tokyonight)
+
+---
+
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Vaibhav-B-Ganjave\&theme=tokyonight)
+
+---
+
+### 📫 Connect With Me
+
+* LinkedIn
+* GitHub
+* Portfolio (Coming Soon)
+
+---
+
+⭐ Always learning and building new things.
