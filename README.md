@@ -82,12 +82,11 @@ Passionate Full Stack Developer from India focused on building scalable, modern 
 
 ## 🚀 Featured Projects
 
-| Project                          | Description                                                   | Tech Stack                    |
-| -------------------------------- | ------------------------------------------------------------- | ----------------------------- |
-| 📊 Appraisal Dashboard           | Employee appraisal tracking dashboard with filtering & charts | React.js, Next.js, SVG Charts |
-| 👨‍💼 Employee Management System | Role-based employee management with authentication & APIs     | React.js, Node.js, MySQL      |
-| 🌐 Full Stack Web Applications   | Responsive enterprise applications with backend integrations  | React.js, Java, Node.js       |
-| 📈 Performance Tracking System   | Real-time employee performance & status tracking platform     | React.js, JavaScript, APIs    |
+| Project                         | Description                                                                                                                   | Tech Stack                      |
+| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| 🤖 eBuddy - AI Chatbot Platform | Developed a ChatGPT-like internal AI chatbot platform with scalable and interactive UI components for seamless communication. | React.js, JavaScript, HTML, CSS |
+| 📊 Automated Appraisal System   | Built a full-stack employee appraisal automation system with workflow tracking, REST APIs, and database management.           | React.js, Node.js, SQL, MongoDB |
+| ⚡ Launcher 2                    | Developed low-code enterprise applications with custom Java integrations, workflows, and backend logic in Mendix.             | Mendix, Java                    |
 
 ---
 
