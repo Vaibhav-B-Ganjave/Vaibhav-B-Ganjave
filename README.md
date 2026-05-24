@@ -10,11 +10,15 @@
 Passionate Full Stack Developer from India focused on building scalable, modern and user-friendly web applications.
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Vaibhav-B-Ganjave&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
 ---
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 🚀 About Me
+## 🚀 About Me
 
 * 💼 Software Developer with experience in Full Stack Development
 * 🌱 Currently learning scalable architecture & modern web technologies
@@ -24,9 +28,9 @@ Passionate Full Stack Developer from India focused on building scalable, modern 
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### Frontend
+### Frontend
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -36,7 +40,7 @@ Passionate Full Stack Developer from India focused on building scalable, modern 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-#### Backend
+### Backend
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -44,15 +48,14 @@ Passionate Full Stack Developer from India focused on building scalable, modern 
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
-#### Database
+### Database
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-#### Tools & Platforms
+### Tools & Platforms
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -63,23 +66,43 @@ Passionate Full Stack Developer from India focused on building scalable, modern 
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-B-Ganjave&show_icons=true&theme=tokyonight"/>
 </p>
 
----
-
-### 🔥 GitHub Streak
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-B-Ganjave&theme=tokyonight"/>
+</p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Vaibhav-B-Ganjave&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-B-Ganjave&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-### 🚀 Current Focus
+## 🚀 Featured Projects
+
+| Project                          | Description                                                   | Tech Stack                    |
+| -------------------------------- | ------------------------------------------------------------- | ----------------------------- |
+| 📊 Appraisal Dashboard           | Employee appraisal tracking dashboard with filtering & charts | React.js, Next.js, SVG Charts |
+| 👨‍💼 Employee Management System | Role-based employee management with authentication & APIs     | React.js, Node.js, MySQL      |
+| 🌐 Full Stack Web Applications   | Responsive enterprise applications with backend integrations  | React.js, Java, Node.js       |
+| 📈 Performance Tracking System   | Real-time employee performance & status tracking platform     | React.js, JavaScript, APIs    |
+
+---
+
+## 🤝 Contributions
+
+* Contributing to enterprise-level full stack applications
+* Improving frontend performance & backend optimization
+* Building scalable UI components and reusable modules
+* Exploring modern web technologies and best development practices
+
+---
+
+## 🚀 Current Focus
 
 * Building scalable full-stack applications
 * Improving system design & backend skills
@@ -88,14 +111,20 @@ Passionate Full Stack Developer from India focused on building scalable, modern 
 
 ---
 
-### 📫 Connect With Me
+## 📫 Let's Connect
 
-* 💼 LinkedIn
-* 🌐 Portfolio (Coming Soon)
-* 📧 Open for collaboration and learning
+<p>
+<a href="https://github.com/Vaibhav-B-Ganjave">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 <p align="center">
-⭐ Always learning and building new things.
+⭐ Always learning • Keep Building • Keep Growing
 </p>
