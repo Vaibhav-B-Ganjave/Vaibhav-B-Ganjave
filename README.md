@@ -116,7 +116,7 @@ Passionate Full Stack Developer from India focused on building scalable, modern 
 📧 Email: <a href="mailto:ganjavevaibhav1@gmail.com">ganjavevaibhav1@gmail.com</a><br>
 🔗 LinkedIn: <a href="https://www.linkedin.com/in/vaibhav--ganjave">Connect with me</a><br>
 💻 GitHub: <a href="https://github.com/Vaibhav-B-Ganjave">Visit my profile</a><br>
-🌐 Portfolio: Coming Soon
+🌐 Portfolio: <a href="https://vaibhav-ganjave-portfolio.vercel.app/">Portfolio</a>
 </p>
 
 ---
