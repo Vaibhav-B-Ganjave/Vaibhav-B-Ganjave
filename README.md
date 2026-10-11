@@ -1,26 +1,35 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Ganjave</h1>
 
-<h3 align="center">Full Stack Developer @ Four Colors Technology</h3>
+<h3 align="center">Full Stack Developer @ Four Colours India Pvt. Ltd.</h3>
 
 <p align="center">
-💻 React.js • Java • Node.js • Mendix
+<b>React.js • Node.js • Java • Mendix • SQL • MongoDB</b>
 </p>
 
 <p align="center">
-Passionate Full Stack Developer from India focused on building scalable, modern and user-friendly web applications.
+Full Stack Developer with 3 years of experience building enterprise web applications, REST APIs, and low-code solutions with custom Java integrations.
+</p>
+
+<p align="center">
+<a href="https://vaibhav-ganjave-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vaibhav--ganjave"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ganjavevaibhav1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🚀 About Me
 
-* 💼 Software Developer with experience in Full Stack Development
-* 🌱 Currently learning scalable architecture & modern web technologies
-* ⚡ Passionate about building enterprise-level applications
-* 📊 Experience with APIs, SQL, Database Management & Performance Optimization
-* 🎯 Goal: Become a highly skilled Software Engineer
+- 💼 **3 years** at Four Colours India (Sep 2023 – Present), delivering **3+ enterprise applications** end to end
+- 🧩 Full-stack ownership: **React UIs → Node.js / Java REST APIs → SQL & MongoDB schemas**
+- ⚙️ Build **Mendix low-code apps** extended with **custom Java modules** for complex business logic
+- 🏭 Domain experience in **enterprise PLM / engineering-data integrations**
+- 🔄 Involved across the lifecycle: requirements, design, development, testing, and deployment
+- 🌱 Currently deepening: **system design, scalable backend architecture, Spring Boot**
+
+<br clear="right"/>
 
 ---
 
@@ -30,7 +39,6 @@ Passionate Full Stack Developer from India focused on building scalable, modern 
 
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -40,77 +48,97 @@ Passionate Full Stack Developer from India focused on building scalable, modern 
 
 <p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-<h3 align="center">Database</h3>
+<h3 align="center">Low-Code</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Mendix-0CABF9?style=for-the-badge&logoColor=white"/>
+</p>
+
+<h3 align="center">Databases</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-<h3 align="center">Tools & Platforms</h3>
+<h3 align="center">Tools</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mendix-003A70?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
+
+<p align="center"><sub>Familiar with: Next.js, Vercel</sub></p>
+
+---
+
+## 💼 Featured Work
+
+### 📊 Automated Appraisal System
+`React.js` `Node.js` `Express.js` `SQL` `MongoDB`
+- Built an **end-to-end performance-review workflow** used for employee appraisals
+- Designed **REST APIs** and **relational + document schemas** (SQL and MongoDB)
+- Owned both frontend (React) and backend (API + database)
+
+### 🤖 eBuddy: Internal AI Chatbot Platform
+`React.js` `JavaScript` `SQL`
+- Developed a **ChatGPT-style chat interface** customized for internal company use
+- Built **reusable, interactive React components** for a smooth conversational UX
+- Contributed to a **scalable frontend architecture** for AI communication tools
+
+### ⚡ Enterprise Launcher Application
+`Mendix` `Java`
+- Built **low-code enterprise apps** in Mendix for client business workflows
+- Extended the platform with **custom Java modules** for logic beyond out-of-the-box capabilities
+- Worked with client teams on **workflows, data models, and backend logic**
+
+> Most of my professional work is in private client repositories. Public projects are in [Repositories](https://github.com/Vaibhav-B-Ganjave?tab=repositories).
+
+---
+
+## 🧑‍🏫 Beyond Code
+
+- 🎤 Conduct **Core Java technical interviews** for fresher hiring
+- 📚 Deliver **knowledge-transfer sessions** to onboard teammates on platform modules
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎓 **B.E. Computer Engineering**, Savitribai Phule Pune University · CGPA **8.78**
+- 📜 Full Stack Java Development, QSpiders Pune
+- 📜 Mendix Low-Code Application Development, Udemy
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vaibhav-B-Ganjave&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vaibhav-B-Ganjave&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img height="165" src="https://streak-stats.demolab.com?user=Vaibhav-B-Ganjave&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img height="180em" src="https://streak-stats.demolab.com?user=Vaibhav-B-Ganjave&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-B-Ganjave&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-B-Ganjave&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Project                         | Description                                                                                                                   | Tech Stack                      |
-| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| 🤖 eBuddy - AI Chatbot Platform | Developed a ChatGPT-like internal AI chatbot platform with scalable and interactive UI components for seamless communication. | React.js, JavaScript, HTML, CSS |
-| 📊 Automated Appraisal System   | Built a full-stack employee appraisal automation system with workflow tracking, REST APIs, and database management.           | React.js, Node.js, SQL, MongoDB |
-| ⚡ Launcher 2                    | Developed low-code enterprise applications with custom Java integrations, workflows, and backend logic in Mendix.             | Mendix, Java                    |
-
----
-
-## 🤝 Contributions
-
-* Contributing to enterprise-level full stack applications
-* Improving frontend performance & backend optimization
-* Building scalable UI components and reusable modules
-* Exploring modern web technologies and best development practices
-
----
-
-## 🚀 Current Focus
-
-* Building scalable full-stack applications
-* Improving system design & backend skills
-* Learning advanced React.js & enterprise architecture
-* Exploring modern development tools
 
 ---
 
 ## 📫 Let's Connect
 
-<p align="center"> Feel free to reach out for collaborations, projects, or just a friendly tech discussion! 🚀 </p>
+<p align="center">
+Open to discussions on full-stack development, enterprise integrations, and Mendix + Java solutions. 🚀
+</p>
 
 <p align="center">
 📧 Email: <a href="mailto:ganjavevaibhav1@gmail.com">ganjavevaibhav1@gmail.com</a><br>
